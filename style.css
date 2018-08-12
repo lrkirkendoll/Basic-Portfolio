@@ -1,0 +1,47 @@
+
+body {
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+header {
+    background: color #ffffff;
+    border-color: #cccccc ;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    top: 0;
+    position: fixed;
+}
+
+.title {
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: #4aaaa5;
+    color: white;
+    margin-left: 15%;
+}
+
+.nav {
+    float: right;
+
+
+}
+
+.list {
+    float:left;
+    margin-left: 45px;
+    margin-right: 25px;
+    padding-top: 25px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.body {
+    background:
+}
